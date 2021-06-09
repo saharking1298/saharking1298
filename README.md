@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @saharking1298
-- 👀 I’m interested in ...Developing epic stuff with python, building awesome web apps and games.
-- 🌱 I’m currently learning ... Vanilla JS and webdev, working on an online startegy game.
-- 💞️ I’m looking to collaborate on ... Actually nothing right now.
-- 📫 How to reach me ... email saharlan500@gmail.com
+- 👋 Hi, I’m Sahar Lan, AKA saharking1298.
+- 👀 I’m interested in ... Python, Javascript, Web apps, diffrent frameworks and all in between!
+- 🌱 I’m currently learning ... Making apps with VueJs - it feels amazing!!!
+- ⚔️ I love fanstasy and sci-fi, my favorite game of all time is The Elder Scrolls V: Skyrim, and I have a knights collection!
+- 📫 How to reach me ... 
+- Email: saharlan500@gmail.com
+- Website: https://saharscript.dev/
+- Discord: saharking1298#5784
 
 <!---
 saharking1298/saharking1298 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
