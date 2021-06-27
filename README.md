@@ -1,6 +1,6 @@
 - 🎃 Hi, I’m Sahar Lando, AKA saharking1298.
-- ⚖️ I’m interested in Python, Javascript, Web apps, diffrent frameworks and all in between!
-- ⚗️ I’m currently learning Making apps with VueJs - it feels amazing!!!
+- ⚖️ I’m interested in Python, Javascript, Web apps, different frameworks and all in between!
+- ⚗️ I’m currently learning Making apps with VueJs & Socket.io - it feels amazing!!!
 - ⚔️ I love fanstasy and sci-fi, my favorite game of all time is The Elder Scrolls V: Skyrim, and I have a knights collection!
 - 🔮 How to reach me ...
 - Email: saharlan500@gmail.com
